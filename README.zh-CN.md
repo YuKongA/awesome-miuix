@@ -49,6 +49,7 @@
 - [Lyricon（词幕）](https://github.com/tomakino/lyricon) - 基于 Xposed 框架的 Android 状态栏歌词增强工具。
 - [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) - 用于在状态栏显示歌词的 Xposed 应用。
 - [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) - 为小米设备提供系统优化与附加功能的 Xposed 模块。
+- [NetProxy](https://github.com/Fanju6/NetProxy-Magisk) - 基于 sing-box 的 Android Root 透明代理模块，提供使用 Miuix 构建的管理器。
 
 ## 参与贡献
 
