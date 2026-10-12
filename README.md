@@ -49,6 +49,7 @@ Open-source applications with interfaces built using Miuix, provided as implemen
 - [Lyricon (词幕)](https://github.com/tomakino/lyricon) - Xposed-based tool for enhancing Android status bar lyrics.
 - [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) - Xposed application for displaying lyrics in the status bar.
 - [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) - Xposed module providing system optimizations and additional features for Xiaomi devices.
+- [NetProxy](https://github.com/Fanju6/NetProxy-Magisk) - Android root-based transparent proxy powered by sing-box, featuring a Miuix-based manager.
 
 ## Contributing
 
