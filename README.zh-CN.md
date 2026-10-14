@@ -17,6 +17,7 @@
     - [VPN / 代理](#vpn--代理)
     - [Root](#root)
     - [Xposed](#xposed)
+    - [效率工具](#效率工具)
   - [参与贡献](#参与贡献)
   - [许可证](#许可证)
 
@@ -59,6 +60,10 @@
 - [Lyricon（词幕）](https://github.com/tomakino/lyricon) - 基于 Xposed 框架的 Android 状态栏歌词增强工具。
 - [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) - 用于在状态栏显示歌词的 Xposed 应用。
 - [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) - 为小米设备提供系统优化与附加功能的 Xposed 模块。
+
+### 效率工具
+
+- [Nexio课程表（NexioSchedule）](https://github.com/HaoZai000/NexioSchedule) - Android 课程表应用，支持课表管理、教务系统导入、WebDAV 同步、课程提醒与桌面小组件。
 
 ## 参与贡献
 
