@@ -17,6 +17,7 @@ Discover Miuix, try its components, and explore how other projects use it. This 
     - [VPN / Proxy](#vpn--proxy)
     - [Root](#root)
     - [Xposed](#xposed)
+    - [Productivity](#productivity)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -59,6 +60,10 @@ Open-source applications with interfaces built using Miuix, provided as implemen
 - [Lyricon (词幕)](https://github.com/tomakino/lyricon) - Xposed-based tool for enhancing Android status bar lyrics.
 - [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) - Xposed application for displaying lyrics in the status bar.
 - [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) - Xposed module providing system optimizations and additional features for Xiaomi devices.
+
+### Productivity
+
+- [Nexio课程表 (NexioSchedule)](https://github.com/HaoZai000/NexioSchedule) - Android course schedule application with timetable management, academic system import, WebDAV sync, course reminders, and home screen widgets.
 
 ## Contributing
 
