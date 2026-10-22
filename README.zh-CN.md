@@ -46,6 +46,7 @@
 
 - [Mishka](https://github.com/YuKongA/Mishka) - 基于 mihomo 的 Android 代理客户端，支持 VPN、ROOT TUN 和 ROOT TPROXY 模式。
 - [NetProxy](https://github.com/Fanju6/NetProxy-Magisk) - 基于 sing-box 的 Android Root 透明代理模块，提供使用 Miuix 构建的管理器。
+- [YumeBox](https://github.com/YumeYucca/YumeBox) - 是一个基于 Mihomo 开源的 Android 客户端。
 
 ### Root
 

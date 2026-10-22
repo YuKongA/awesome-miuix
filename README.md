@@ -46,6 +46,7 @@ Open-source applications with interfaces built using Miuix, provided as implemen
 
 - [Mishka](https://github.com/YuKongA/Mishka) - Android proxy client based on mihomo, with VPN, ROOT TUN, and ROOT TPROXY modes.
 - [NetProxy](https://github.com/Fanju6/NetProxy-Magisk) - Android root-based transparent proxy powered by sing-box, featuring a Miuix-based manager.
+- [YumeBox](https://github.com/YumeYucca/YumeBox) - Open-source Android client based on Mihomo.
 
 ### Root
 
