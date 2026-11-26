@@ -59,7 +59,7 @@ Open-source applications with interfaces built using Miuix, provided as implemen
 - [HyperLyric](https://github.com/limczhh/HyperLyric) ![GitHub Stars](https://img.shields.io/github/stars/limczhh/HyperLyric?style=flat) - Xposed module bringing Super Island lyrics to Xiaomi HyperOS 3.
 - [HyperStar](https://github.com/YunZiA/HyperStar) ![GitHub Stars](https://img.shields.io/github/stars/YunZiA/HyperStar?style=flat) - Xposed module for customizing the system interface on Xiaomi devices.
 - [Lyricon (词幕)](https://github.com/tomakino/lyricon) ![GitHub Stars](https://img.shields.io/github/stars/tomakino/lyricon?style=flat) - Xposed-based tool for enhancing Android status bar lyrics.
-- [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) ![GitHub Stars](https://img.shields.io/github/stars/Block-Network/StatusBarLyric?style=flat) - Xposed application for displaying lyrics in the status bar.
+- ~~[StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) ![GitHub Stars](https://img.shields.io/github/stars/Block-Network/StatusBarLyric?style=flat) - Xposed application for displaying lyrics in the status bar.~~ (Archived)
 - [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) ![GitHub Stars](https://img.shields.io/github/stars/HowieHChen/XiaomiHelper?style=flat) - Xposed module providing system optimizations and additional features for Xiaomi devices.
 
 ### Productivity

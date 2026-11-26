@@ -60,7 +60,7 @@
 - [HyperLyric](https://github.com/limczhh/HyperLyric) ![GitHub Stars](https://img.shields.io/github/stars/limczhh/HyperLyric?style=flat) - 为小米 HyperOS 3 带来超级岛歌词的 Xposed 模块。
 - [HyperStar](https://github.com/YunZiA/HyperStar) ![GitHub Stars](https://img.shields.io/github/stars/YunZiA/HyperStar?style=flat) - 面向小米设备的系统界面定制 Xposed 模块。
 - [Lyricon（词幕）](https://github.com/tomakino/lyricon) ![GitHub Stars](https://img.shields.io/github/stars/tomakino/lyricon?style=flat) - 基于 Xposed 框架的 Android 状态栏歌词增强工具。
-- [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) ![GitHub Stars](https://img.shields.io/github/stars/Block-Network/StatusBarLyric?style=flat) - 用于在状态栏显示歌词的 Xposed 应用。
+- ~~[StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) ![GitHub Stars](https://img.shields.io/github/stars/Block-Network/StatusBarLyric?style=flat) - 用于在状态栏显示歌词的 Xposed 应用。~~（已归档）
 - [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) ![GitHub Stars](https://img.shields.io/github/stars/HowieHChen/XiaomiHelper?style=flat) - 为小米设备提供系统优化与附加功能的 Xposed 模块。
 
 ### 效率工具
