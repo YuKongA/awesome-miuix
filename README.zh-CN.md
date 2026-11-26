@@ -13,12 +13,13 @@
   - [官方资源](#官方资源)
   - [示例与演示](#示例与演示)
   - [应用](#应用)
+    - [AI](#ai)
+    - [影音媒体](#影音媒体)
+    - [效率工具](#效率工具)
+    - [Root](#root)
     - [系统工具](#系统工具)
     - [VPN / 代理](#vpn--代理)
-    - [Root](#root)
     - [Xposed](#xposed)
-    - [效率工具](#效率工具)
-    - [影音媒体](#影音媒体)
   - [参与贡献](#参与贡献)
   - [许可证](#许可证)
 
@@ -37,6 +38,23 @@
 
 使用 Miuix 构建界面的开源应用，可作为实现参考。收录不代表所有界面或代码模式都是推荐的最佳实践。平台支持及 Xposed、Shizuku、Root 等运行要求，请以各项目文档为准。
 
+### AI
+
+- [Eta](https://github.com/Mangi-11/Eta) ![GitHub Stars](https://img.shields.io/github/stars/Mangi-11/Eta?style=flat) - 大模型时代的 Android 系统级 AI 助手与移动设备 Agent。
+
+### 影音媒体
+
+- [Melox](https://github.com/Inefy-03/Melox) ![GitHub Stars](https://img.shields.io/github/stars/Inefy-03/Melox?style=flat) - 一款基于 Jetpack Compose、Miuix 和 AndroidX Media3 构建的 Android 本地音乐播放器。
+
+### 效率工具
+
+- [Nexio课程表（NexioSchedule）](https://github.com/HaoZai000/NexioSchedule) ![GitHub Stars](https://img.shields.io/github/stars/HaoZai000/NexioSchedule?style=flat) - Android 课程表应用，支持课表管理、教务系统导入、WebDAV 同步、课程提醒与桌面小组件。
+
+### Root
+
+- [KernelSU](https://github.com/tiann/KernelSU) ![GitHub Stars](https://img.shields.io/github/stars/tiann/KernelSU?style=flat) - 基于内核的 Android Root 方案，管理器支持 Material / Miuix 双主题。
+- [LSPrivilege](https://github.com/LSPosed/LSPrivilege) ![GitHub Stars](https://img.shields.io/github/stars/LSPosed/LSPrivilege?style=flat) - 用于获取临时 root 权限的模块化 Android 内核提权应用。
+
 ### 系统工具
 
 - [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ![GitHub Stars](https://img.shields.io/github/stars/wxxsfxyzm/InstallerX-Revived?style=flat) - 支持 Material / Miuix 双主题的 Android 应用安装器。
@@ -49,11 +67,6 @@
 - [NetProxy](https://github.com/Fanju6/NetProxy-Magisk) ![GitHub Stars](https://img.shields.io/github/stars/Fanju6/NetProxy-Magisk?style=flat) - 基于 sing-box 的 Android Root 透明代理模块，提供使用 Miuix 构建的管理器。
 - [YumeBox](https://github.com/YumeYucca/YumeBox) ![GitHub Stars](https://img.shields.io/github/stars/YumeYucca/YumeBox?style=flat) - 是一个基于 Mihomo 开源的 Android 客户端。
 
-### Root
-
-- [KernelSU](https://github.com/tiann/KernelSU) ![GitHub Stars](https://img.shields.io/github/stars/tiann/KernelSU?style=flat) - 基于内核的 Android Root 方案，管理器支持 Material / Miuix 双主题。
-- [LSPrivilege](https://github.com/LSPosed/LSPrivilege) ![GitHub Stars](https://img.shields.io/github/stars/LSPosed/LSPrivilege?style=flat) - 用于获取临时 root 权限的模块化 Android 内核提权应用。
-
 ### Xposed
 
 - [HyperIsland](https://github.com/1812z/HyperIsland) ![GitHub Stars](https://img.shields.io/github/stars/1812z/HyperIsland?style=flat) - 为澎湃 OS3/4 打造的超级岛通知增强的 Xposed 模块。
@@ -62,14 +75,6 @@
 - [Lyricon（词幕）](https://github.com/tomakino/lyricon) ![GitHub Stars](https://img.shields.io/github/stars/tomakino/lyricon?style=flat) - 基于 Xposed 框架的 Android 状态栏歌词增强工具。
 - ~~[StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) ![GitHub Stars](https://img.shields.io/github/stars/Block-Network/StatusBarLyric?style=flat) - 用于在状态栏显示歌词的 Xposed 应用。~~（已归档）
 - [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) ![GitHub Stars](https://img.shields.io/github/stars/HowieHChen/XiaomiHelper?style=flat) - 为小米设备提供系统优化与附加功能的 Xposed 模块。
-
-### 效率工具
-
-- [Nexio课程表（NexioSchedule）](https://github.com/HaoZai000/NexioSchedule) ![GitHub Stars](https://img.shields.io/github/stars/HaoZai000/NexioSchedule?style=flat) - Android 课程表应用，支持课表管理、教务系统导入、WebDAV 同步、课程提醒与桌面小组件。
-
-### 影音媒体
-
-- [Melox](https://github.com/Inefy-03/Melox) ![GitHub Stars](https://img.shields.io/github/stars/Inefy-03/Melox?style=flat) - 一款基于 Jetpack Compose、Miuix 和 AndroidX Media3 构建的 Android 本地音乐播放器。
 
 ## 参与贡献
 
