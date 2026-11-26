@@ -18,19 +18,19 @@ Discover Miuix, try its components, and explore how other projects use it. This 
     - [Root](#root)
     - [Xposed](#xposed)
     - [Productivity](#productivity)
+    - [Media](#media)
   - [Contributing](#contributing)
   - [License](#license)
 
 ## Official Resources
 
-- [Miuix](https://github.com/compose-miuix-ui/miuix) - Source code, setup instructions, and supported platforms.
-- [Official Documentation](https://compose-miuix-ui.github.io/miuix/) - Guides and component references.
+- [Miuix](https://github.com/compose-miuix-ui/miuix) ![GitHub Stars](https://img.shields.io/github/stars/compose-miuix-ui/miuix?style=flat) - Source code, setup instructions, and supported platforms.
+- [Documentation](https://compose-miuix-ui.github.io/miuix/) - Guides and component references.
 
 ## Examples and Demos
 
-- [Official Example](https://github.com/compose-miuix-ui/miuix/tree/main/example) - Component showcase and usage examples in the Miuix repository.
-- [JsCanvas Demo](https://compose-miuix-ui.github.io/miuix-jsCanvas/) - Interactive browser demo using JsCanvas.
-- [WasmJs Demo](https://compose-miuix-ui.github.io/miuix-wasmJs/) - Interactive browser demo using WasmJs.
+- [Example App](https://github.com/compose-miuix-ui/miuix/tree/main/example) - Component showcase and usage examples in the Miuix repository.
+- [Website Demo](https://compose-miuix-ui.github.io/miuix-wasmJs/) - Interactive browser demo using WasmJs.
 
 ## Applications
 
@@ -38,33 +38,37 @@ Open-source applications with interfaces built using Miuix, provided as implemen
 
 ### System Tools
 
-- [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - Android package installer with Material / Miuix theme options.
-- [Payload-Dumper-Compose](https://github.com/rcmiku/Payload-Dumper-Compose) - Android payload image extraction tool.
-- [Updater-KMP](https://github.com/YuKongA/Updater-KMP) - KMP tool for retrieving Xiaomi system updates.
+- [InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) ![GitHub Stars](https://img.shields.io/github/stars/wxxsfxyzm/InstallerX-Revived?style=flat) - Android package installer with Material / Miuix theme options.
+- [Payload-Dumper-Compose](https://github.com/rcmiku/Payload-Dumper-Compose) ![GitHub Stars](https://img.shields.io/github/stars/rcmiku/Payload-Dumper-Compose?style=flat) - Android payload image extraction tool.
+- [Updater-KMP](https://github.com/YuKongA/Updater-KMP) ![GitHub Stars](https://img.shields.io/github/stars/YuKongA/Updater-KMP?style=flat) - KMP tool for retrieving Xiaomi system updates.
 
 ### VPN / Proxy
 
-- [Mishka](https://github.com/YuKongA/Mishka) - Android proxy client based on mihomo, with VPN, ROOT TUN, and ROOT TPROXY modes.
-- [NetProxy](https://github.com/Fanju6/NetProxy-Magisk) - Android root-based transparent proxy powered by sing-box, featuring a Miuix-based manager.
-- [YumeBox](https://github.com/YumeYucca/YumeBox) - Open-source Android client based on Mihomo.
+- [Mishka](https://github.com/YuKongA/Mishka) ![GitHub Stars](https://img.shields.io/github/stars/YuKongA/Mishka?style=flat) - Android proxy client based on mihomo, with VPN, ROOT TUN, and ROOT TPROXY modes.
+- [NetProxy](https://github.com/Fanju6/NetProxy-Magisk) ![GitHub Stars](https://img.shields.io/github/stars/Fanju6/NetProxy-Magisk?style=flat) - Android root-based transparent proxy powered by sing-box, featuring a Miuix-based manager.
+- [YumeBox](https://github.com/YumeYucca/YumeBox) ![GitHub Stars](https://img.shields.io/github/stars/YumeYucca/YumeBox?style=flat) - Open-source Android client based on Mihomo.
 
 ### Root
 
-- [KernelSU](https://github.com/tiann/KernelSU) - Kernel-based Android root solution with a manager supporting Material / Miuix themes.
-- [GhostLock](https://github.com/YuKongA/ghostlock-app) - Android application for obtaining root access through GhostLock on supported kernels.
+- [KernelSU](https://github.com/tiann/KernelSU) ![GitHub Stars](https://img.shields.io/github/stars/tiann/KernelSU?style=flat) - Kernel-based Android root solution with a manager supporting Material / Miuix themes.
+- [LSPrivilege](https://github.com/LSPosed/LSPrivilege) ![GitHub Stars](https://img.shields.io/github/stars/LSPosed/LSPrivilege?style=flat) - Modular Android kernel privilege-escalation app for gaining temporary root.
 
 ### Xposed
 
-- [HyperIsland](https://github.com/1812z/HyperIsland) - Xposed module enhancing Super Island notifications on HyperOS 3 and 4.
-- [HyperLyric](https://github.com/limczhh/HyperLyric) - Xposed module bringing Super Island lyrics to Xiaomi HyperOS 3.
-- [HyperStar](https://github.com/YunZiA/HyperStar) - Xposed module for customizing the system interface on Xiaomi devices.
-- [Lyricon (词幕)](https://github.com/tomakino/lyricon) - Xposed-based tool for enhancing Android status bar lyrics.
-- [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) - Xposed application for displaying lyrics in the status bar.
-- [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) - Xposed module providing system optimizations and additional features for Xiaomi devices.
+- [HyperIsland](https://github.com/1812z/HyperIsland) ![GitHub Stars](https://img.shields.io/github/stars/1812z/HyperIsland?style=flat) - Xposed module enhancing Super Island notifications on HyperOS 3 and 4.
+- [HyperLyric](https://github.com/limczhh/HyperLyric) ![GitHub Stars](https://img.shields.io/github/stars/limczhh/HyperLyric?style=flat) - Xposed module bringing Super Island lyrics to Xiaomi HyperOS 3.
+- [HyperStar](https://github.com/YunZiA/HyperStar) ![GitHub Stars](https://img.shields.io/github/stars/YunZiA/HyperStar?style=flat) - Xposed module for customizing the system interface on Xiaomi devices.
+- [Lyricon (词幕)](https://github.com/tomakino/lyricon) ![GitHub Stars](https://img.shields.io/github/stars/tomakino/lyricon?style=flat) - Xposed-based tool for enhancing Android status bar lyrics.
+- [StatusBarLyric](https://github.com/Block-Network/StatusBarLyric) ![GitHub Stars](https://img.shields.io/github/stars/Block-Network/StatusBarLyric?style=flat) - Xposed application for displaying lyrics in the status bar.
+- [XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper) ![GitHub Stars](https://img.shields.io/github/stars/HowieHChen/XiaomiHelper?style=flat) - Xposed module providing system optimizations and additional features for Xiaomi devices.
 
 ### Productivity
 
-- [Nexio课程表 (NexioSchedule)](https://github.com/HaoZai000/NexioSchedule) - Android course schedule application with timetable management, academic system import, WebDAV sync, course reminders, and home screen widgets.
+- [Nexio课程表 (NexioSchedule)](https://github.com/HaoZai000/NexioSchedule) ![GitHub Stars](https://img.shields.io/github/stars/HaoZai000/NexioSchedule?style=flat) - Android course schedule application with timetable management, academic system import, WebDAV sync, course reminders, and home screen widgets.
+
+### Media
+
+- [Melox](https://github.com/Inefy-03/Melox) ![GitHub Stars](https://img.shields.io/github/stars/Inefy-03/Melox?style=flat) - Android local music player built with Jetpack Compose, Miuix, and AndroidX Media3.
 
 ## Contributing
 
